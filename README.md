@@ -1,6 +1,6 @@
 # Travel_Project_JS
 
-Aby poprawnie uruchomić aplikację:
+Aby poprawnie uruchomić aplikację należy:
 
 1. Pobrać plik z Github
 2. Wypakować pliki i odpalić folder w wybranym IDE
